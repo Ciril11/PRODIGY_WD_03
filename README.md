@@ -16,7 +16,7 @@ It was created as part of **Task 3** for the Prodigy InfoTech Web Development In
 
 ## 📂 Project Structure
 
-    ├──README.md → Project details and instructions
+    ├── README.md → Project details and instructions
     ├── index.html → Main HTML file 
     ├── style.css → Styling for the game board and layout 
     ├── script.js → Game logic (user clicks, win/draw checks) 
